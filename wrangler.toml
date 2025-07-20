@@ -1,6 +1,5 @@
-name = ""
+name = "lanzou2directlink"
 type = "javascript"
-account_id = ""
+account_id = "9a1f8fb26358d36ee8b6b0f5fe19f6c6"
 workers_dev = true
-route = ""
-zone_id = ""
+compatibility_date = "2025-07-20"
